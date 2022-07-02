@@ -1,0 +1,2 @@
+
+    cout<<countNodes(root)<<endl;
